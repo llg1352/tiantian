@@ -1,4 +1,4 @@
-README.md
+
 django框架搭建的电商商城demo
 
 网站效果： http://49.234.122.69
