@@ -11,7 +11,7 @@ django-haystack==2.8.1
 django-redis==4.12.1
 django-tinymce==2.7.0
 dnspython==1.16.0
-eventlet==0.26.1
+eventlet==0.31.0
 fdfs-client-py==1.2.6
 future==0.18.2
 greenlet==0.4.16
